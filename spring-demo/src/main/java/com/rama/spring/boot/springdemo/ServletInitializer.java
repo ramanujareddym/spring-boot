@@ -1,4 +1,4 @@
-package com.spring.boot.springdemo;
+package com.rama.spring.boot.springdemo;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

@@ -9,7 +9,7 @@
 		<version>2.4.0</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.spring.boot</groupId>
+	<groupId>com.rama.spring.boot</groupId>
 	<artifactId>spring-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
